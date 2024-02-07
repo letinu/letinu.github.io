@@ -976,6 +976,7 @@ blockquote {
 
 #gallery img {
     max-height: 276.63px;
+    max-width: 406.14px;
 }
 
 #gallery [class*='col-'] {
