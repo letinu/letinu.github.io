@@ -15,34 +15,34 @@
 
 
 body {
-    background:#fff;
+    background:#27303d;
 }
 
 
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#5fda84;
+    color:#2eb5c7;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#5fda84;
+    color:#2eb5c7;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#5fda84;
+    color:#2eb5c7;
 }
 
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #5fda84;
+    background: #2eb5c7;
 }
 
 .pricing-block-content:hover {
-    border-color:#5fda84;
+    border-color:#2eb5c7;
 }
 
 
@@ -68,8 +68,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #5fda84;
-    border-color: #5fda84;
+    color: #2eb5c7;
+    border-color: #2eb5c7;
 }    
 
 
