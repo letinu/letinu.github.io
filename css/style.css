@@ -390,6 +390,18 @@ section {
     border-style: solid;
 }
 
+.button2 {
+    font-size: 16px;
+    margin: 35px 0;
+    padding: 11px 16px;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    transition: all .3s linear;
+    display: inline-block;
+    border-width: 3px;
+    border-style: solid;
+}
+
 /* Play Button */
 
 #video-section {
